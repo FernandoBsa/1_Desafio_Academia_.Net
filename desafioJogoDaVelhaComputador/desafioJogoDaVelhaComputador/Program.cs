@@ -7,7 +7,6 @@ class Program
     {
         Console.WriteLine("JOGO DA VELHA");
         InicializarTabuleiro();
-        //DesenharTabuleiro();
 
         while (true)
         {
